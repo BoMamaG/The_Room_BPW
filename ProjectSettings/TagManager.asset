@@ -6,19 +6,13 @@ TagManager:
   tags:
   - Dirt
   - Tree
-  - Door4
-  - Door6
-  - Door9
-  - Door7
-  - Door2
   - Door5
   - Door
-  - Door3
-  - Door8
   - Event Trig
   - GameManager
   - Camera
   - note_cam
+  - pickup
   layers:
   - Default
   - TransparentFX
